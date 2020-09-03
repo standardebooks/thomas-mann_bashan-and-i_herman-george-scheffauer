@@ -35,8 +35,8 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A renowned novelist describes the unique relation that links him to his dog.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In this book, &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann&lt;/a&gt;, Nobel Prize-winning author of “The Magic Mountain“ and “Death in Venice", tells in the most remarkable way the unique relation that can link a dog with his master. These memoirs read as a novel, and describe in fierce details the behaviour, feelings and psychology of a dog, Bashan, and of his master. In an engaging style, Thomas Mann tells how they acquired Bashan, details traits of his characters and how they go on harmless hunts, in the most bucolic scenery.&lt;/p&gt;
-			&lt;p&gt;Written in 1918, at the end of the First World War thus, “Bashan and I“ (sometime referred as “Man and Dog“) is an Ode to life, to Nature, to simple joys and ... to a dog.&lt;/p&gt;
+			&lt;p&gt;In this book, &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann&lt;/a&gt;, Nobel Prize-winning author of “The Magic Mountain“ and “Death in Venice“, tells in the most remarkable way the unique relation that can link a dog with his master. These memoirs read as a novel, and describe in fierce details the behaviour, feelings and psychology of a dog, Bashan, and of his master. In an engaging style, Thomas Mann tells how they acquired Bashan, details traits of his characters and how they go on harmless hunts, in the most bucolic scenery.&lt;/p&gt;
+			&lt;p&gt;Written in 1918, at the end of the First World War thus, “Bashan and I“ (sometime referred to as “Man and Dog“) is an Ode to life, to Nature, to simple joys and … to a dog.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61284</dc:source>
@@ -53,7 +53,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Herman George Scheffauer</dc:contributor>
 		<meta property="file-as" refines="#translator">Scheffauer, Herman George</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Herman George Scheffauer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Herman_George_Scheffauer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n50057101</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
@@ -91,18 +90,18 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-</manifest>
-<spine>
-	<itemref idref="titlepage.xhtml"/>
-	<itemref idref="imprint.xhtml"/>
-	<itemref idref="foreword.xhtml"/>
-	<itemref idref="halftitle.xhtml"/>
-	<itemref idref="chapter-1.xhtml"/>
-	<itemref idref="chapter-2.xhtml"/>
-	<itemref idref="chapter-3.xhtml"/>
-	<itemref idref="chapter-4.xhtml"/>
-	<itemref idref="chapter-5.xhtml"/>
-	<itemref idref="colophon.xhtml"/>
-	<itemref idref="uncopyright.xhtml"/>
-</spine>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="foreword.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="chapter-2.xhtml"/>
+		<itemref idref="chapter-3.xhtml"/>
+		<itemref idref="chapter-4.xhtml"/>
+		<itemref idref="chapter-5.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
 </package>
