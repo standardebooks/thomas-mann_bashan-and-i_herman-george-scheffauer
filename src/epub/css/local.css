@@ -6,16 +6,6 @@ footer{
 	margin-top: 1em;
 }
 
-.signature,
-cite{
-	font-variant: small-caps;
-}
-
-blockquote .signature{
-	text-align: right;
-	margin-top: 0;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
