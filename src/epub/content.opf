@@ -36,7 +36,7 @@
 		<dc:description id="description">A renowned novelist describes the unique relation that links him to his dog.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;Bashan and I&lt;/i&gt; (sometime referred to as &lt;i&gt;Man and Dog&lt;/i&gt;), &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann&lt;/a&gt;, the Nobel Prize-winning author of &lt;i&gt;The Magic Mountain&lt;/i&gt; and &lt;i&gt;Death in Venice&lt;/i&gt;, writes in the most remarkable way of the unique relation that links a dog with his master. These memoirs read as a novel, and describe in fierce detail the behavior, feelings and psychology of Mann’s dog Bashan, and of Mann himself. Mann tells how he acquired Bashan, details traits of his character, and describes how they go on harmless and bucolic hunts.&lt;/p&gt;
-			&lt;p&gt;Written in 1918 at the end of the First World War, &lt;i&gt;Bashan and I&lt;/i&gt; is an ode to life, to nature, to simple joys, and to a dog.&lt;/p&gt;
+			&lt;p&gt;Written in 1918 at the end of the First World War, &lt;i&gt;Bashan and I&lt;/i&gt; is an ode to life, to nature, to simple joys, and to a dog.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61284</dc:source>
