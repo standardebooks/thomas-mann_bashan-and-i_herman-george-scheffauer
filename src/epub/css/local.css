@@ -5,8 +5,3 @@ footer{
 	text-align: right;
 	margin-top: 1em;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
