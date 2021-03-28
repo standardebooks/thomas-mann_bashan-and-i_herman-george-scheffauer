@@ -49,12 +49,12 @@
 		<meta property="file-as" refines="#author">Mann, Thomas</meta>
 		<meta property="se:name.person.full-name" refines="#author">Paul Thomas Mann</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_Mann</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78095625</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095625</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Herman George Scheffauer</dc:contributor>
 		<meta property="file-as" refines="#translator">Scheffauer, Herman George</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Herman_George_Scheffauer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n50057101</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50057101</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Jean-Baptiste Oudry</dc:contributor>
