@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Bashan and I</dc:title>
 		<meta property="file-as" refines="#title">Bashan and I</meta>
+		<meta property="dcterms:alternative" refines="#title">A Man and His Dog</meta>
 		<dc:subject id="subject-1">Dogs -- Anecdotes</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008102348</meta>
