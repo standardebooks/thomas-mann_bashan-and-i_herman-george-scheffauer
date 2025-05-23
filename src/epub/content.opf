@@ -44,6 +44,7 @@
 		<meta property="se:production-notes">A few ending dots and italics that were missing in the Gutenberg transcription were re-added by checking against the print version scanned.</meta>
 		<meta property="se:word-count">38286</meta>
 		<meta property="se:reading-ease.flesch">61.29</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Man_and_His_Dog_(narrative)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-mann_bashan-and-i_herman-george-scheffauer</meta>
 		<dc:creator id="author">Thomas Mann</dc:creator>
 		<meta property="file-as" refines="#author">Mann, Thomas</meta>
